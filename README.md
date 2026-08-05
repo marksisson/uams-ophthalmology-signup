@@ -3,7 +3,7 @@
 A professional Next.js landing page with:
 
 - Name and email signup
-- Persistent Supabase/Postgres storage via the server-side REST API
+- Persistent Supabase/Postgres storage
 - Duplicate-email handling
 - Server-side validation, honeypot spam field, and basic rate limiting
 - Password-protected `/admin` page
