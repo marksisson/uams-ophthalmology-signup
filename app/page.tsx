@@ -29,12 +29,6 @@ export default function Home() {
           <span className="eyebrow">University of Arkansas for Medical Sciences</span>
           <h1>Explore a future in <span>ophthalmology.</span></h1>
           <p className="hero-lead">Connect with students, physicians, mentors, and service opportunities through the UAMS Ophthalmology Interest Group.</p>
-
-          <div className="feature-row">
-            <div><b>01</b><span>Specialty exposure</span></div>
-            <div><b>02</b><span>Mentorship</span></div>
-            <div><b>03</b><span>Community service</span></div>
-          </div>
         </div>
 
         <div id="signup"><SignupForm /></div>
